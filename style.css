@@ -235,6 +235,15 @@ body{
 .color-plate span.color12{
 	background:#44ce6f;
 }
+
+.logo-item {
+	margin-bottom: 20px; /* 아래쪽 간격 */}
+
+.logo-item img {
+	margin: 0px 10px 20px 10px; /* 좌우와 아래쪽 간격 */
+	width: 100px; /* 이미지 크기 조정 */
+}
+
 /*=============================
 	End Global CSS 
 ===============================*/
